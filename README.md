@@ -8,5 +8,6 @@ Refactor an existing webpage to meet standards in web accessibility while follow
 https://fernandomoreno1.github.io/Horiseon/
 
 ### Pre-view
+
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/94732823/147692607-d084b3a8-d7c1-4c0b-978f-62cbf6616412.png)
 
