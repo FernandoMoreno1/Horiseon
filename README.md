@@ -4,7 +4,7 @@ Horiseon is a marketing agency design to help businesses improve their search en
 ## Task
 Refactor an existing webpage to meet standards in web accessibility while following the Scout Rule. Improve codebase for long term sustainability, and ensure that all links are working correctly and clean up the CSS to make it more efficient.
 
-### Link
+### Website
 https://fernandomoreno1.github.io/Horiseon/
 
 ### Pre-view
